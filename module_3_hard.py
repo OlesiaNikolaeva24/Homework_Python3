@@ -15,6 +15,7 @@ def calculate_structure_sum(*args, total=0):
 
 # 1 + 2 + 3 + len('a') + 4 + len('b') + 5 + 6 + len('cube') + 7 + .... + 35 = 99
 
+
 data_structure = [
     [1, 2, 3],
     {'a': 4, 'b': 5},
